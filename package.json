@@ -1,11 +1,11 @@
 {
   "name": "react-vscode-extension-pack",
-  "displayName": "VS Code Extension pack for React Development",
+  "displayName": "React Extension Pack",
   "description": "Popular VS Code extensions for React development.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "jawandarajbir",
   "engines": {
-    "vscode": "^1.10.0"
+    "vscode": "^1.15.0"
   },
   "icon": "react.png",
   "galleryBanner": {
