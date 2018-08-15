@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/jawandarajbir/react-vscode-extension-pack/issues"
   },
-  "extensionDependencies": [
+  "extensionPack": [
     "xabikos.ReactSnippets",
     "dbaeumer.vscode-eslint",
     "xabikos.javascriptsnippets",
