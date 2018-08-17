@@ -2,7 +2,7 @@
   "name": "react-vscode-extension-pack",
   "displayName": "React Extension Pack",
   "description": "Popular VS Code extensions for React development.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "jawandarajbir",
   "engines": {
     "vscode": "^1.15.0"
@@ -16,7 +16,6 @@
     "react",
     "reactjs",
     "node",
-    "nodejs",
     "javascript",
     "es6"
   ],
