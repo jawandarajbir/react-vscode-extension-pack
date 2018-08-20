@@ -5,7 +5,7 @@
   "version": "0.3.0",
   "publisher": "jawandarajbir",
   "engines": {
-    "vscode": "^1.15.0"
+    "vscode": "^1.26.0"
   },
   "icon": "react.png",
   "galleryBanner": {
