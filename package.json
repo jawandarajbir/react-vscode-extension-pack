@@ -2,10 +2,10 @@
   "name": "react-vscode-extension-pack",
   "displayName": "React Extension Pack",
   "description": "Popular VS Code extensions for React development.",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "publisher": "jawandarajbir",
   "engines": {
-    "vscode": "^1.26.0"
+    "vscode": "^1.15.0"
   },
   "icon": "react.png",
   "galleryBanner": {
@@ -36,7 +36,6 @@
     "jasonnutter.search-node-modules",
     "eg2.vscode-npm-script",
     "christian-kohler.npm-intellisense",
-    "christian-kohler.path-intellisense",
-    "MS-vsliveshare.vsliveshare"
+    "christian-kohler.path-intellisense"
   ]
 }
